@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @0x-Parzival
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning GO lamg
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me everywhere
-- 
+<h1 align="center">🧙‍♂️ Parzival</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=👾+AI+Vigilante+from+the+Himalayas;🧠+Building+Blockplain+%7C+Gesture+AI;🎭+Masked+Flute+Beatboxer;🏸+Badminton+State+Contender" alt="Typing SVG" />
+</p>
 
-<!---
-0x-Parzival/0x-Parzival is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛰️ Who Am I?
+```yaml
+Name: Parzival
+Location: Himalayas
+Day Job: AI Architect | Blockchain Engineer
+Night Job: Vigilante Hacker 🥷
+Hobbies: Beatboxing | Badminton | Building the future
