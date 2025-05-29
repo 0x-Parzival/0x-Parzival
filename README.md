@@ -1,8 +1,4 @@
-<!-- ⚡ Futuristic Dark Parzival GitHub README -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0f0f,100:00f7ff&height=150&section=header&text=Parzival%20Protocol%20Online&fontSize=35&fontColor=00f7ff&animation=fadeIn" />
-</p>
+<!-- ⚡ Futuristic Parzival GitHub README -->
 
 <h1 align="center">🧙‍♂️ 0x-Parzival</h1>
 <p align="center">
