@@ -1,10 +1,15 @@
-<h1 align="center">🧙‍♂️ Parzival</h1>
+<!-- ⚡ Futuristic Dark Parzival GitHub README -->
+
 <p align="center">
-  <img src="https://i.ytimg.com/vi/LgK9aAXhfeU/maxresdefault.jpg" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0f0f,100:00f7ff&height=150&section=header&text=Parzival%20Protocol%20Online&fontSize=35&fontColor=00f7ff&animation=fadeIn" />
+</p>
+
+<h1 align="center">🧙‍♂️ 0x-Parzival</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=AI+Vigilante+from+the+Himalayas;Building+Blockplain+and+Gesture+AI;Masked+Beatboxer+%7C+Cybersecurity+Wizard;World's+No.1+Competitive+Coder" alt="Typing SVG" />
 </p>
 
 ---
-
 
 ### 🧬 About Me
 ```yaml
@@ -21,7 +26,7 @@ Mission: Build a smarter, freer, decentralized world.
 
 | 🚧 Project | 🌐 Description | 🔋 Status |
 |-----------|----------------|-----------|
-| [Blockplain](https://github.com/0x-Parzival/AECH-3d) | Modular 2D Blockchain with native cross-chain grid-plane design | 🧠 Active Development |
+| [Blockplain](https://github.com/0x-Parzival/AECH) | Modular 2D Blockchain with native cross-chain grid-plane design | 🧠 Active Development |
 | Gesture AI | Hand gesture interface with CV & ML | 🖐️ Prototype Phase |
 | AECH Explorer | Visual frontend for AECH blockchain with particle & grid rendering | 🧪 UI Coming Soon |
 
@@ -47,10 +52,10 @@ Domains     :: AI · Cybersecurity · Blockchain · Computer Vision
 
 ---
 
-### 📈 Stats from the Grid
+### 📊 Stats from the Grid
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x-Parzival&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-Parzival&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0x-Parzival&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-Parzival&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 ---
@@ -68,14 +73,12 @@ Domains     :: AI · Cybersecurity · Blockchain · Computer Vision
 ### 🛰️ Connect with Parzival
 
 <p align="center">
-  <a href="keshavbruh@gmail.com"><img src="https://img.shields.io/badge/email-parzival%40encryptedmail.com-darkblue?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:parzival@encryptedmail.com"><img src="https://img.shields.io/badge/email-parzival%40encryptedmail.com-darkblue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/0x-Parzival"><img src="https://img.shields.io/github/followers/0x-Parzival?style=social" /></a>
 </p>
 
 ---
 
-### 🔒 Code. Create. Disappear.
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=PARZIVAL%20PROTOCOL%20ACTIVE&height=100&fontSize=20&desc=The%20Masked%20Coder%20Has%20Entered%20the%20Grid&descAlignY=75&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&text=CODE.%20CREATE.%20DISAPPEAR.&height=80&fontSize=20&fontColor=00f7ff&animation=fadeIn" />
 </p>
-
