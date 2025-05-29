@@ -1,6 +1,15 @@
-<!-- ⚡ Futuristic Parzival GitHub README -->
+<!-- Futuristic Parzival GitHub README with Cyberpunk Banner + Grid Particles -->
+
+<p align="center">
+  <img src="https://i.imgur.com/ZFzWnTQ.png" alt="Cyberpunk Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/aw7hcx2.gif" alt="Grid Particles Animation" width="100%" style="max-height:120px; object-fit:cover;" />
+</p>
 
 <h1 align="center">🧙‍♂️ 0x-Parzival</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=AI+Vigilante+from+the+Himalayas;Building+Blockplain+and+Gesture+AI;Masked+Beatboxer+%7C+Cybersecurity+Wizard;World's+No.1+Competitive+Coder" alt="Typing SVG" />
 </p>
@@ -14,6 +23,7 @@ Role: AI Architect | Blockchain Engineer | Cyber Vigilante
 Base: Himalayas (off-grid ⛰️)
 Aliases: Masked Flute Beatboxer | Carl (competitive coder)
 Mission: Build a smarter, freer, decentralized world.
+
 ```
 
 ---
