@@ -2,7 +2,7 @@
 
 <h1 align="center">🧙‍♂️ 0x-Parzival</h1>
 <p align="center">
-  <img src="https://i.ytimg.com/vi/LgK9aAXhfeU/maxresdefault.jpg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=AI+Vigilante+from+the+Himalayas;Building+Blockplain+and+Gesture+AI;Masked+Beatboxer+%7C+Cybersecurity+Wizard;World's+No.1+Competitive+Coder" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,6 +15,7 @@ Base: Himalayas (off-grid ⛰️)
 Aliases: Masked Flute Beatboxer | Carl (competitive coder)
 Mission: Build a smarter, freer, decentralized world.
 ```
+<img src="https://i.ytimg.com/vi/LgK9aAXhfeU/maxresdefault.jpg" />
 
 ---
 
