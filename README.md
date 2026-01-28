@@ -78,3 +78,4 @@ Aliases: "Masked Flute Beatboxer" | "Cyber Sentinel"
     CODE. CREATE. EVOLVE.
   </p>
 </div>
+| **[Spiritual AI](https://spiritualai.org)** | `Digital Consciousness` `React` `AI` | **Live System** |
