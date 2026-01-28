@@ -44,7 +44,7 @@ Aliases: "Masked Flute Beatboxer" | "Cyber Sentinel"
 
 | 🔮 Project | 🧬 Classification | 🟢 Status |
 |:-----------|:------------------|:----------|
-| **[Spiritual AI](https://spiritualai.org)** | `Digital Consciousness` `React` `AI` | **Live System** |
+| **[Spiritual AI](https://spiritualai.store)** | `Digital Consciousness` `React` `AI` | **Live System** |
 | **[KalkiOS](https://github.com/0x-Parzival/kalki1)** | `Satya Yuga OS` `System Architecture` | **In Development** |
 | **[Gesture AI](https://www.instagram.com/gesture_ai/)** | `Human-Computer-Interface` `CV` `Python` | **Prototype** |
 | **[Blockplain](https://github.com/0x-Parzival/AECH)** | `Modular Blockchain` `Substrate` `L1` | **Core Dev** |
@@ -78,4 +78,3 @@ Aliases: "Masked Flute Beatboxer" | "Cyber Sentinel"
     CODE. CREATE. EVOLVE.
   </p>
 </div>
-| **[Spiritual AI](https://spiritualai.org)** | `Digital Consciousness` `React` `AI` | **Live System** |
