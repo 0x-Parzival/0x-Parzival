@@ -48,7 +48,7 @@ Aliases: "Masked Flute Beatboxer" | "Cyber Sentinel"
 | **[KalkiOS](https://github.com/0x-Parzival/kalki1)** | `Satya Yuga OS` `System Architecture` | **In Development** |
 | **[Gesture AI](https://www.instagram.com/gesture_ai/)** | `Human-Computer-Interface` `CV` `Python` | **Prototype** |
 | **[Blockplain](https://github.com/0x-Parzival/AECH)** | `Modular Blockchain` `Substrate` `L1` | **Core Dev** |
-| **Cyber Sentinel** | `Cybersecurity` `Defense Protocols` | **Deployed** |
+| **[Cyber Sentinel].(https://github.com/0x-Parzival/cyber-sentinel-suite)** | `Cybersecurity` `Defense Protocols` | **Deployed** |
 
 ---
 
