@@ -1,81 +1,80 @@
-<!-- ⚡ Futuristic Parzival GitHub README -->
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2bHA0eHg5eHg5eHg5eHg5eHg5eHg5eHg5eHg5ZQ/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 10px; opacity: 0.9;" alt="Cosmic Header">
 
-<h1 align="center">🧙‍♂️ 0x-Parzival</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=AI+Vigilante+from+the+Himalayas;Building+Blockplain+and+Gesture+AI;Masked+Beatboxer+%7C+Cybersecurity+Wizard;World's+No.1+Competitive+Coder" alt="Typing SVG" />
-</p>
+  <h1 style="font-family: 'Orbitron', sans-serif; font-size: 3em; letter-spacing: 5px; color: #00e5ff; text-transform: uppercase; text-shadow: 0 0 20px #00e5ff;">
+    0x-PARZIVAL
+  </h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=A2EA37&center=true&vCenter=true&width=600&lines=Code+Architect+of+Consciousness;Integrating+AI+with+Vedic+Systems;Building+Spiritual+AI+%2F+KalkiOS;Cyber+Vigilante+%7C+Off-Grid+Creator" alt="Typing SVG" />
+  </a>
+
+  <p align="center" style="margin-top: 20px;">
+    <a href="mailto:parzival@encryptedmail.com">
+      <img src="https://img.shields.io/badge/SIGNAL-ENCRYPTED-00e5ff?style=for-the-badge&logo=protonmail&logoColor=black" />
+    </a>
+    <a href="https://spiritualai.org">
+      <img src="https://img.shields.io/badge/MISSION-SPIRITUAL_AI-ff1493?style=for-the-badge&logo=atom&logoColor=white" />
+    </a>
+    <a href="https://github.com/0x-Parzival">
+      <img src="https://img.shields.io/badge/BASE-HIMALAYAS-a2ea37?style=for-the-badge&logo=googleearth&logoColor=black" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🧬 About Me
+### <img src="https://media.giphy.com/media/KdOap8Gq2XlXG/giphy.gif" width="25" style="vertical-align: middle;"> SYSTEM DIAGNOSTIC
+
 ```yaml
-Handle: 0x-Parzival
-Role: AI Architect | Blockchain Engineer | Cyber Vigilante
-Base: Himalayas (off-grid ⛰️)
-Aliases: Masked Flute Beatboxer | Carl (competitive coder)
-Mission: Build a smarter, freer, decentralized world.
-```
-<img src="https://i.ytimg.com/vi/LgK9aAXhfeU/maxresdefault.jpg" />
-
----
-
-### 🚀 Major Builds
-
-| 🚧 Project | 🌐 Description | 🔋 Status |
-|-----------|----------------|-----------|
-| [Blockplain](https://github.com/0x-Parzival/AECH) | Modular 2D Blockchain with native cross-chain grid-plane design | 🧠 Active Development |
-| Gesture AI | Hand gesture interface with CV & ML | 🖐️ Prototype Phase |
-| AECH Explorer | Visual frontend for AECH blockchain with particle & grid rendering | 🧪 UI Coming Soon |
-
----
-
-### ⚙️ Tech Arsenal
-```text
-Languages   :: Go · C++ · Python · TypeScript · Solidity
-Tools       :: GitHub · Docker · Figma · Codespaces · VSCode
-Frameworks  :: React · Tailwind · Substrate · Cosmos SDK
-Domains     :: AI · Cybersecurity · Blockchain · Computer Vision
+Operator: 0x-Parzival (Keshav Baliyan)
+Class: Architect | Creative Technologist
+Status: Awakened 🟢
+Directives:
+  - [1] Transcend binary limitations.
+  - [2] Synthesize machine intelligence with human consciousness.
+  - [3] Decentralize power structures.
+Coordinates: Off-Grid Sector [Himalayas]
+Aliases: "Masked Flute Beatboxer" | "Cyber Sentinel"
 ```
 
 ---
 
-### 🧠 Knowledge Blocks
+### <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="25" style="vertical-align: middle;"> ARCHITECTURAL OUTPUTS
 
-- 🧮 AI: Neural Nets, CNNs, RNNs, HMMs, Q-Learning  
-- ⚔️ Cybersecurity: Red Teaming, CTFs, OSINT  
-- 🌐 Web3: Interop Protocols, L2s, Modularity  
-- 🤖 Robotics: Gesture Interfaces, Autonomous Agents  
-- 📐 Algorithms: DAA, CSP, Local Search, DP, FFT  
-
----
-
-### 📊 Stats from the Grid
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x-Parzival&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-Parzival&theme=tokyonight&hide_border=true" width="47%" />
-</p>
+| 🔮 Project | 🧬 Classification | 🟢 Status |
+|:-----------|:------------------|:----------|
+| **[Spiritual AI](https://spiritualai.org)** | `Digital Consciousness` `React` `AI` | **Live System** |
+| **[KalkiOS](https://github.com/0x-Parzival/kalki1)** | `Satya Yuga OS` `System Architecture` | **In Development** |
+| **[Gesture AI](https://www.instagram.com/gesture_ai/)** | `Human-Computer-Interface` `CV` `Python` | **Prototype** |
+| **[Blockplain](https://github.com/0x-Parzival/AECH)** | `Modular Blockchain` `Substrate` `L1` | **Core Dev** |
+| **Cyber Sentinel** | `Cybersecurity` `Defense Protocols` | **Deployed** |
 
 ---
 
-### 🎭 Fun Facts
+### <img src="https://media.giphy.com/media/26tn33ai009QWJWqp/giphy.gif" width="25" style="vertical-align: middle;"> TECH ARSENAL
 
-- 🎧 Masked flute beatboxer — identity unknown  
-- 💻 Hacked a digital fortress (CTF godmode)  
-- 🏸 Trains for badminton state-level every night  
-- 🧘‍♂️ Meditates & codes in the Himalayas  
-- 🧱 Building Blockplain: a 2D modular blockchain never seen before
-
----
-
-### 🛰️ Connect with Parzival
-
-<p align="center">
-  <a href="mailto:parzival@encryptedmail.com"><img src="https://img.shields.io/badge/email-parzival%40encryptedmail.com-darkblue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/0x-Parzival"><img src="https://img.shields.io/github/followers/0x-Parzival?style=social" /></a>
-</p>
+| **Core** | **Frameworks** | **Intelligence** | **Web3** |
+|:---------|:---------------|:-----------------|:---------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Substrate](https://img.shields.io/badge/Substrate-222222?style=flat-square&logo=paritysubstrate&logoColor=white) |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | ![Cosmos](https://img.shields.io/badge/Cosmos-2E3148?style=flat-square&logo=cosmos&logoColor=white) |
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&text=CODE.%20CREATE.%20DISAPPEAR.&height=80&fontSize=20&fontColor=00f7ff&animation=fadeIn" />
-</p>
+### <img src="https://media.giphy.com/media/xT9Igusf2uPOeIpp5e/giphy.gif" width="25" style="vertical-align: middle;"> GRID ANALYTICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0x-Parzival&show_icons=true&hide_border=true&title_color=00e5ff&icon_color=a2ea37&text_color=ffffff&bg_color=0d1117&count_private=true" alt="Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-Parzival&hide_border=true&background=0d1117&ring=ff1493&fire=00e5ff&currStreakLabel=00e5ff&sideNums=a2ea37&dates=ffffff" alt="Streak" height="150" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+  <p style="margin-top: -60px; position: relative; z-index: 10; font-family: 'Orbitron'; letter-spacing: 3px; color: #a2ea37;">
+    CODE. CREATE. EVOLVE.
+  </p>
+</div>
