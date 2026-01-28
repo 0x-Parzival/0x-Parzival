@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXMzanZ5dmhwMmc3Yzc0dndxcXZiM2hsbXFvZ2EyMm9wbDVzenFqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J39gurpvL7SHpnTTJB/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 10px; opacity: 0.9;" alt="Cosmic Header">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnl1bnRtemtoODJ1MTZpZ3hkenN5M3JibXg0bXlhYXdqbzVqcXQxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ozFNmtVPIWbJQf6/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 10px; opacity: 0.9;" alt="Cosmic Header">
 
   <h1 style="font-family: 'Orbitron', sans-serif; font-size: 3em; letter-spacing: 5px; color: #00e5ff; text-transform: uppercase; text-shadow: 0 0 20px #00e5ff;">
     0x-PARZIVAL
